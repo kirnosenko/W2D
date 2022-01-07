@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W2D.Cmd", "W2D.Cmd\W2D.Cmd.csproj", "{B576AF70-31B3-4F77-B617-EE322D599493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W2D", "W2D\W2D.csproj", "{3DA68FF0-B2E4-4D49-97DC-2D6532627A84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W2D.WordTheme", "W2D.WordTheme\W2D.WordTheme.csproj", "{F1EA0FCA-3505-47C2-B2F0-578317BE714A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B576AF70-31B3-4F77-B617-EE322D599493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B576AF70-31B3-4F77-B617-EE322D599493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B576AF70-31B3-4F77-B617-EE322D599493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B576AF70-31B3-4F77-B617-EE322D599493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA68FF0-B2E4-4D49-97DC-2D6532627A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA68FF0-B2E4-4D49-97DC-2D6532627A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA68FF0-B2E4-4D49-97DC-2D6532627A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA68FF0-B2E4-4D49-97DC-2D6532627A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1EA0FCA-3505-47C2-B2F0-578317BE714A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EA0FCA-3505-47C2-B2F0-578317BE714A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EA0FCA-3505-47C2-B2F0-578317BE714A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EA0FCA-3505-47C2-B2F0-578317BE714A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D64078AC-88E7-4ADF-9FA4-536C6E64512E}
+	EndGlobalSection
+EndGlobal
