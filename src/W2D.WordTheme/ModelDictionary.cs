@@ -7,7 +7,7 @@ namespace W2D.WordTheme
 	{
 		public string libelle { get; set; }
 		public Guid identifier { get; set; }
-		public int version { get; set; }
+		public string version { get; set; }
 		public DateTime dm { get; set; }
 		public LinkedList<ModelWordTheme> listAssoWT { get; set; }
 		public LinkedList<ModelTheme> ltheme { get; set; }

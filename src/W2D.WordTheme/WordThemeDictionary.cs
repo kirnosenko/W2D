@@ -25,7 +25,7 @@ namespace W2D.WordTheme
 			{
 				libelle = label,
 				identifier = Guid.NewGuid(),
-				version = 2,
+				version = "2",
 				dm = DateTime.Now,
 				listAssoWT = new LinkedList<ModelWordTheme>(),
 				ltheme = new LinkedList<ModelTheme>(),
